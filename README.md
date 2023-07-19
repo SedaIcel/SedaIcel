@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&pause=1000&color=3847F7&background=FFFFFF00&multiline=true&width=435&lines=Hi..+I'm+Seda+Icel)](https://git.io/typing-svg)
 
 <!--
 **SedaIcel/SedaIcel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
